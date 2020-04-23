@@ -6,7 +6,7 @@ Then, the output should be:
 {1: 1, 2: 4, 3: 9, 4: 16, 5: 25, 6: 36, 7: 49, 8: 64}
 '''
 
-number = int(input("Enter the number n to generate dictionary of (i, i*i) for number between 1 and n : "))
+number = int(input("Enter number n to generate dictionary of (i, i*i) for number between 1 and n : "))
 
 my_dict = dict()
 
